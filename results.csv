@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer_Science,Attendance,Total,Average,Grade,Result,Attendance_Status
+S001,Aarav Sharma,CSE,88,79,84,76,92,91,419,83.8,A,Pass,OK
+S002,Priya Singh,CSE,92,88,90,85,96,95,451,90.2,A+,Pass,OK
+S003,Rohan Verma,ECE,67,58,62,70,65,82,322,64.4,B,Pass,OK
+S004,Ananya Gupta,IT,74,81,69,88,79,88,391,78.2,B+,Pass,OK
+S005,Kabir Khan,ME,45,52,48,60,55,72,260,52.0,C,Pass,Shortage
+S006,Neha Yadav,CSE,81,76,85,79,88,93,409,81.8,A,Pass,OK
+S007,Aditya Mishra,ECE,34,41,38,55,47,65,215,43.0,D,Fail,Shortage
+S008,Sneha Tiwari,IT,95,91,93,89,97,97,465,93.0,A+,Pass,OK
+S009,Vikram Rao,ME,58,63,55,67,60,79,303,60.6,B,Pass,OK
+S010,Isha Pandey,CSE,71,68,74,82,77,86,372,74.4,B+,Pass,OK
+S011,Manish Kumar,IT,39,44,36,52,41,68,212,42.4,D,Pass,Shortage
+S012,Riya Srivastava,ECE,85,83,80,91,84,90,423,84.6,A,Pass,OK
+S013,Arjun Chauhan,ME,62,57,66,64,59,77,308,61.6,B,Pass,OK
+S014,Kavya Joshi,CSE,78,85,82,80,90,94,415,83.0,A,Pass,OK
+S015,Saurabh Dubey,IT,52,49,58,61,66,74,286,57.2,C,Pass,Shortage
+S016,Pooja Agarwal,ECE,69,72,65,78,70,85,354,70.8,B+,Pass,OK
+S017,Harsh Saxena,ME,48,42,51,58,44,70,243,48.6,D,Pass,Shortage
+S018,Divya Mehta,CSE,90,94,87,92,98,96,461,92.2,A+,Pass,OK
+S019,Nikhil Tripathi,IT,76,70,73,68,81,83,368,73.6,B+,Pass,OK
+S020,Tanvi Bajpai,ECE,64,60,71,75,68,87,338,67.6,B,Pass,OK

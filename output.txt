@@ -1,0 +1,99 @@
+
+======================================================================
+1. DATASET OVERVIEW
+======================================================================
+Records: 20 | Columns: 9
+Columns: Student_ID, Name, Department, Maths, Physics, Chemistry, English, Computer_Science, Attendance
+Missing values: 0
+Student_ID         Name Department  Maths  Physics  Chemistry  English  Computer_Science  Attendance
+      S001 Aarav Sharma        CSE     88       79         84       76                92          91
+      S002  Priya Singh        CSE     92       88         90       85                96          95
+      S003  Rohan Verma        ECE     67       58         62       70                65          82
+      S004 Ananya Gupta         IT     74       81         69       88                79          88
+      S005   Kabir Khan         ME     45       52         48       60                55          72
+
+======================================================================
+2. STUDENT RESULTS
+======================================================================
+Student_ID            Name Department  Total  Average Grade Result  Attendance Attendance_Status
+      S001    Aarav Sharma        CSE    419     83.8     A   Pass          91                OK
+      S002     Priya Singh        CSE    451     90.2    A+   Pass          95                OK
+      S003     Rohan Verma        ECE    322     64.4     B   Pass          82                OK
+      S004    Ananya Gupta         IT    391     78.2    B+   Pass          88                OK
+      S005      Kabir Khan         ME    260     52.0     C   Pass          72          Shortage
+      S006      Neha Yadav        CSE    409     81.8     A   Pass          93                OK
+      S007   Aditya Mishra        ECE    215     43.0     D   Fail          65          Shortage
+      S008    Sneha Tiwari         IT    465     93.0    A+   Pass          97                OK
+      S009      Vikram Rao         ME    303     60.6     B   Pass          79                OK
+      S010     Isha Pandey        CSE    372     74.4    B+   Pass          86                OK
+      S011    Manish Kumar         IT    212     42.4     D   Pass          68          Shortage
+      S012 Riya Srivastava        ECE    423     84.6     A   Pass          90                OK
+      S013   Arjun Chauhan         ME    308     61.6     B   Pass          77                OK
+      S014     Kavya Joshi        CSE    415     83.0     A   Pass          94                OK
+      S015   Saurabh Dubey         IT    286     57.2     C   Pass          74          Shortage
+      S016   Pooja Agarwal        ECE    354     70.8    B+   Pass          85                OK
+      S017    Harsh Saxena         ME    243     48.6     D   Pass          70          Shortage
+      S018     Divya Mehta        CSE    461     92.2    A+   Pass          96                OK
+      S019 Nikhil Tripathi         IT    368     73.6    B+   Pass          83                OK
+      S020    Tanvi Bajpai        ECE    338     67.6     B   Pass          87                OK
+
+======================================================================
+3. CLASS SUMMARY
+======================================================================
+Total students        : 20
+Passed                : 19
+Failed                : 1
+Pass percentage       : 95.0
+Class average         : 70.15
+Highest average       : 93.0
+Lowest average        : 42.4
+Attendance shortage   : 5
+
+======================================================================
+4. SUBJECT-WISE ANALYSIS
+======================================================================
+         Subject  Average  Highest  Lowest  Passed
+           Maths    68.40       95      34      19
+         Physics    67.65       94      41      20
+       Chemistry    68.35       93      36      20
+         English    73.50       92      52      20
+Computer_Science    72.85       98      41      20
+
+Best subject (highest average)  : English
+Weakest subject (lowest average): Physics
+
+======================================================================
+5. DEPARTMENT-WISE ANALYSIS
+======================================================================
+Department  Students  Avg_Marks  Passed
+       CSE         6      84.23       6
+       ECE         5      66.08       4
+        IT         5      68.88       5
+        ME         4      55.70       4
+
+======================================================================
+6. TOP 3 PERFORMERS
+======================================================================
+Student_ID         Name Department  Average Grade
+      S008 Sneha Tiwari         IT     93.0    A+
+      S018  Divya Mehta        CSE     92.2    A+
+      S002  Priya Singh        CSE     90.2    A+
+
+======================================================================
+7. GRADE DISTRIBUTION
+======================================================================
+Grade
+A     4
+A+    3
+B     4
+B+    4
+C     2
+D     3
+
+======================================================================
+8. FAILED STUDENTS
+======================================================================
+Student_ID          Name  Average
+      S007 Aditya Mishra     43.0
+
+Processed data saved to results.csv
