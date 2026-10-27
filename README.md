@@ -63,7 +63,7 @@ It covers four challenges (the pass rule, moving between Pandas and NumPy, depar
 - Hard-coded values: Grade limits, the pass mark and the attendance limit were first written inside the logic. I moved them to constants (PASS_MARK, MIN_ATTENDANCE) so they can be changed in one place.
 
 ## 10. GitHub Repository
-https://github.com/Himmu725/student-performance-analytics
+https://github.com/Himmu725/Student_Performance_Analytics
 
 ## How to Run
 ```bash
